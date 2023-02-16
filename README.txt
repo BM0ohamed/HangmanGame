@@ -1,5 +1,5 @@
-Vous trouverez dans ce répertoire deux codes python du même jeu (jeu du pendu) l'un avec de la musique (qui requiert le module pygame) et l'autre sans.
+In this directory, you will find two Python codes for the same game (Hangman), one with music (which requires the Pygame module) and the other without.
 
-Si vous ne parvenez pas à installer la bibliothèque pygame correctement alors il vous suffira de lancer le jeu sans la musique.
+If you are unable to install the Pygame library correctly, you can simply run the game without music.
 
-Nous vous recommandons néanmoins d'essayer d'abord avec la musique car elle est vraiment pas mal!
+However, we recommend that you try it first with the music because it's really good!
